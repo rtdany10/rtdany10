@@ -1,5 +1,5 @@
 ### Hey there! Glad to see you here! 👋
-#### Here is a littile bio about myself:
+#### Here is a little about myself:
 - 👔 I'm a Senior Software Developer at Wahni Green Technologies.
 - 🎓 I'm a B.Tech grad from National Institute of Technology, Agartala.
 - 🔭 I’m currently working on Frappe Framework and ERPNext.
