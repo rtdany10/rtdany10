@@ -1,6 +1,7 @@
 ### Hey there! Glad to see you here! 👋
 #### Here is a littile bio about myself:
 - 👔 I'm a Senior Software Developer at Wahni Green Technologies.
+- 🎓 I'm a B.Tech grad from National Institute of Technology, Agartala.
 - 🔭 I’m currently working on Frappe Framework and ERPNext.
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: danyrt@wahni.com
